@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="zero">0</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="msg_source_currency">You must select source currency.</string>
+    <string name="msg_target_currency">You must select target currency.</string>
+    <string name="msg_same_currency">You can not convert to same currency.</string>
+</resources>
